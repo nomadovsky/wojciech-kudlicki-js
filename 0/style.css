@@ -1,0 +1,13 @@
+.container {
+	display: grid;
+	place-items: start;
+	width: 80%;
+}
+.container-inputs {
+	display: grid;
+}
+
+button {
+	margin-top: 2em;
+	padding: 1em 2.5em;
+}
